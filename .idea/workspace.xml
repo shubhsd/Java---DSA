@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afd9be49-0d98-4a6d-8f45-fe42fa94eef8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lecture_6_Funtions/areaOfRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_6_Funtions/PrimePractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_6_Funtions/VeggieHelperWithReturnType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_6_Funtions/VeggieHelperWithReturnType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +38,22 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.areaOfRectangle">
+  <component name="RunManager" selected="Application.PrimePractice">
     <configuration name="FunctionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lecture_6_Funtions.FunctionsDemo" />
+      <module name="Java Beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lecture_6_Funtions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture_6_Funtions.PrimePractice" />
       <module name="Java Beginner" />
       <extension name="coverage">
         <pattern>
@@ -92,26 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture_5_Pattern_Problems.pattern10" />
-      <module name="Java Beginner" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lecture_5_Pattern_Problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimePractice" />
         <item itemvalue="Application.areaOfRectangle" />
         <item itemvalue="Application.VeggieHelperWithReturnType" />
         <item itemvalue="Application.VeggieHelper" />
         <item itemvalue="Application.FunctionsDemo" />
-        <item itemvalue="Application.pattern10" />
       </list>
     </recent_temporary>
   </component>
