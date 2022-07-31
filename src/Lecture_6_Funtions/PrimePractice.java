@@ -27,7 +27,6 @@ public class PrimePractice {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int n = scn.nextInt();
-
         if (isPrime(n)) {
 //            isPrime(n) return true or false
             System.out.println("Number is Prime");
