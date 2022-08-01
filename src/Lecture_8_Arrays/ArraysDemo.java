@@ -12,6 +12,12 @@ public class ArraysDemo {
         for (int i = 0; i <= marks.length - 1; i++) {
             System.out.println("Print Array in loop " + marks[i]);
         }
+
+//        For each loop -->>
+        System.out.println("For each loop starts");
+        for (int x : marks) {
+            System.out.print(x + " ");
+        }
 //        2. User Input array
     }
 }
