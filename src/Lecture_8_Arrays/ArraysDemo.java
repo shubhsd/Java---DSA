@@ -1,5 +1,7 @@
 package Lecture_8_Arrays;
 
+import java.util.Arrays;
+
 public class ArraysDemo {
     public static void main(String[] args) {
 //        1. Hardcoded Array
@@ -18,6 +20,10 @@ public class ArraysDemo {
         for (int x : marks) {
             System.out.print(x + " ");
         }
+
+//        Method 3 to print array using Arrays.toString()
+        System.out.println("Using Arrays.toString()");
+        System.out.println(Arrays.toString(marks));
 //        2. User Input array
     }
 }
