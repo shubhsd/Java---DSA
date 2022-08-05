@@ -26,13 +26,8 @@ public class ArraysDemo {
         System.out.println("Using Arrays.toString()");
         System.out.println(Arrays.toString(marks));
     }
-    public static void main(String[] args) {
-//        1. Hardcoded Array
-//        System.out.println("Hardcoded Array " );
-//        playWithArray();
 
-//        2. User Input array
-
+    public static void printArray() {
         Scanner scn = new Scanner(System.in);
         int n = scn.nextInt();
 
@@ -43,5 +38,27 @@ public class ArraysDemo {
         System.out.println(arr);
         System.out.println(arr.length);
         System.out.println(Arrays.toString(arr));
+    }
+
+    public static void main(String[] args) {
+//        1. Hardcoded Array
+//        System.out.println("Hardcoded Array " );
+//        playWithArray();
+
+//        2. User Input array
+//            printArray();
+
+//        3. Take Input from array and print it.
+        Scanner scn = new Scanner(System.in);
+        System.out.println("Enter length of array to be created ");
+        int n = scn.nextInt();
+        int[] arr = new int[n];
+
+        for (int i = 0; i <= n - 1; i++) {
+            System.out.println("Enter value at index " + i);
+            arr[i] = scn.nextInt();
+        }
+        System.out.println("Array is " + arr);
+        System.out.println("Stringed array is " + Arrays.toString(arr));
     }
 }
