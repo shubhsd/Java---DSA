@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afd9be49-0d98-4a6d-8f45-fe42fa94eef8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lecture_9_Maths_Remedial/BirthdayParadoxProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_1/AllPrimeNumbersInRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_1_2_3_4/AllPrimeNumbersInRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_1/ContinueStatementDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_1_2_3_4/ContinueStatementDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_1/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_1_2_3_4/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_1/PrimeNumberBreakDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_1_2_3_4/PrimeNumberBreakDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_1/PrimeNumberForMultipleInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_1_2_3_4/PrimeNumberForMultipleInputs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_1/SimpleCalculatorUsingSwitchCaseStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_1_2_3_4/SimpleCalculatorUsingSwitchCaseStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_1/SwitchCaseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_1_2_3_4/SwitchCaseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_9_Maths_Remedial/SumOfDivisors.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BirthdayParadoxProblem">
+  <component name="RunManager" selected="Application.SumOfDivisors">
     <configuration name="BirthdayParadoxProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lecture_9_Maths_Remedial.BirthdayParadoxProblem" />
       <module name="Java Beginner" />
@@ -85,19 +77,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PassByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture_8_Arrays.PassByValue" />
-      <module name="Java Beginner" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lecture_8_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PassByValueInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lecture_8_Arrays.PassByValueInArray" />
       <module name="Java Beginner" />
@@ -111,13 +90,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfDivisors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture_9_Maths_Remedial.SumOfDivisors" />
+      <module name="Java Beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lecture_9_Maths_Remedial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfDivisors" />
         <item itemvalue="Application.BirthdayParadoxProblem" />
         <item itemvalue="Application.FindLargestNumberInArray" />
         <item itemvalue="Application.FindIndexOfKey" />
         <item itemvalue="Application.PassByValueInArray" />
-        <item itemvalue="Application.PassByValue" />
       </list>
     </recent_temporary>
   </component>
