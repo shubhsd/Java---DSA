@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afd9be49-0d98-4a6d-8f45-fe42fa94eef8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lecture_8_Arrays/FindIndexOfKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_8_Arrays/PassByValueInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_8_Arrays/FindLargestNumberInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindIndexOfKey">
+  <component name="RunManager" selected="Application.FindLargestNumberInArray">
     <configuration name="ArraysDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lecture_8_Arrays.ArraysDemo" />
       <module name="Java Beginner" />
@@ -66,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCD_Optimised" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture_7_Maths.GCD_Optimised" />
+    <configuration name="FindLargestNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture_8_Arrays.FindLargestNumberInArray" />
       <module name="Java Beginner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture_7_Maths.*" />
+          <option name="PATTERN" value="Lecture_8_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindLargestNumberInArray" />
         <item itemvalue="Application.FindIndexOfKey" />
         <item itemvalue="Application.PassByValueInArray" />
         <item itemvalue="Application.PassByValue" />
         <item itemvalue="Application.ArraysDemo" />
-        <item itemvalue="Application.GCD_Optimised" />
       </list>
     </recent_temporary>
   </component>
