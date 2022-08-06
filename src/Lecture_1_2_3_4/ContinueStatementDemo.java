@@ -1,4 +1,4 @@
-package Lecture_1;
+package Lecture_1_2_3_4;
 
 public class ContinueStatementDemo {
     public static void main(String[] args) {
