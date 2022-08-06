@@ -11,7 +11,9 @@ public class FindLargestNumberInArray {
     }
 
     public static int largest(int[] arr) {
-        int largestNum = 0;
+//        int largestNum = 0;
+//        or
+        int largestNum = Integer.MIN_VALUE;
         for (int i = 0; i < arr.length; i++) {
             if (largestNum < arr[i]) {
                 largestNum = arr[i];
