@@ -17,6 +17,15 @@ public class FindLargestNumberInArray {
                 largestNum = arr[i];
             }
         }
+
+//        or method 2 using for in
+
+//        for(int x: arr) {
+//            if(x>largestNum) {
+//                largestNum = x;
+//            }
+//        }
+
         return largestNum;
     }
 
