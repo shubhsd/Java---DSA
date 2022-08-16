@@ -40,7 +40,7 @@ public class InputsInString {
 
         for (int i = 1; i <= n; i++) {
             String current = scn.nextLine();
-            if(current.length() > largest) {
+            if (current.length() > largest) {
                 largest = current.length();
                 largestString = current;
             }
@@ -48,7 +48,21 @@ public class InputsInString {
         System.out.println("Largest string is  " + largestString);
     }
 
+    public static void filterImages() {
+        String files[] = {"xyz.png", "dsc1.png", "dsc.pdf", "ds3.jpg" };
+//        Find out the image files
+        for (String f : files) {
+            if (f.endsWith(".png") || f.endsWith(".jpg")) {
+                System.out.println("Found Image " + f);
+            }
+        }
+    }
+
     public static void main(String[] args) {
-        largestString();
+////        largestString();
+//        String juices = "I want apple juice";
+//        System.out.println(juices.contains("apple"));
+
+        filterImages();
     }
 }
