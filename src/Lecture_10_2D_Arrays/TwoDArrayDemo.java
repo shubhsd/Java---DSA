@@ -21,6 +21,5 @@ public class TwoDArrayDemo {
         int rows = arr.length;
         int cols = arr[0].length;
         System.out.println(rows + " " + cols);
-
     }
 }
