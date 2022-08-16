@@ -8,11 +8,12 @@ public class ArrayListsDemo {
         arr.add(1);
         arr.add(9);
         arr.add(0, 4);
+        arr.set(0,6);
 
 //        Print all elements
 
         for(int i = 0; i<arr.size(); i++) {
             System.out.println(arr.get(i));
         }
-    } 
+    }
 }

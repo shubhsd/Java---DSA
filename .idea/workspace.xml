@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afd9be49-0d98-4a6d-8f45-fe42fa94eef8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lecture_10_2D_Arrays/ArrayListsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_5_Pattern_Problems/pattern11_Alphabet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture_10_2D_Arrays/ArrayListsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_10_2D_Arrays/ArrayListsDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayListsDemo">
+  <component name="RunManager" selected="Application.pattern11_Alphabet">
     <configuration name="ArrayListsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lecture_10_2D_Arrays.ArrayListsDemo" />
       <module name="Java Beginner" />
@@ -78,19 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoDArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture_10_2D_Arrays.TwoDArrayDemo" />
-      <module name="Java Beginner" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lecture_10_2D_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TwoDArrayWithVariableColumns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lecture_10_2D_Arrays.TwoDArrayWithVariableColumns" />
       <module name="Java Beginner" />
@@ -104,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pattern11_Alphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture_5_Pattern_Problems.pattern11_Alphabet" />
+      <module name="Java Beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lecture_5_Pattern_Problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pattern11_Alphabet" />
         <item itemvalue="Application.ArrayListsDemo" />
         <item itemvalue="Application.TwoDArrayWithVariableColumns" />
         <item itemvalue="Application.TakingInputIn2DArray" />
         <item itemvalue="Application.Print2DArray" />
-        <item itemvalue="Application.TwoDArrayDemo" />
       </list>
     </recent_temporary>
   </component>
