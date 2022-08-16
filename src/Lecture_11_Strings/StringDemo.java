@@ -1,8 +1,9 @@
 package Lecture_11_Strings;
 
 public class StringDemo {
-    public static void main(String[] args) {
-//        Character arrays can be modified
+
+    public static void stringBasics() {
+        //        Character arrays can be modified
         char[] arr = {'a', 'b', 'c', 'd', 'e'};
         char[] fixedSizeCharArr = new char[20];
         System.out.println("Original array ");
@@ -42,7 +43,21 @@ public class StringDemo {
         System.out.println(bArr);
 
 //        Converting back to String
-        b = new String(bArr); //Means assigned new object to object reference b 
+        b = new String(bArr); //Means assigned new object to object reference b
         System.out.println(b);
+    }
+
+    public static void main(String[] args) {
+        String s1 = "Hello";
+        String s2 = "Hello";
+        System.out.println("s1==s2 " + (s1 == s2)); //Outputs true
+        System.out.println("Equals method is used to compare values of string");
+        System.out.println("Equals method - s1 == s2 " + (s1.equals(s2)));
+
+        String a = new String("Hello");
+        String b = new String("Hello");
+
+        System.out.println("a==b " + (a == b));
+        System.out.println("Equals method - a == b " + (a.equals(b)));
     }
 }
