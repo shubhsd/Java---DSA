@@ -49,6 +49,7 @@ public class InputsInString {
     }
 
     public static void filterImages() {
+//        Creating array of strings
         String files[] = {"xyz.png", "dsc1.png", "dsc.pdf", "ds3.jpg" };
 //        Find out the image files
         for (String f : files) {
@@ -58,11 +59,25 @@ public class InputsInString {
         }
     }
 
+    //    Given a string, find index of a given word inside that string
+    public static void findIndex() {
+        String doc = "We are learning java, java has  many concepts, java is powerful";
+        String word = "java";
+//        System.out.println(doc.indexOf(word));
+        int idx = doc.indexOf(word);
+        while (idx != -1) {
+            System.out.println(idx);
+            idx = doc.indexOf(word, idx + 1);
+        }
+    }
+
     public static void main(String[] args) {
-////        largestString();
+//        largestString();
 //        String juices = "I want apple juice";
 //        System.out.println(juices.contains("apple"));
+//        filterImages();
 
-        filterImages();
+        findIndex();
     }
+
 }
