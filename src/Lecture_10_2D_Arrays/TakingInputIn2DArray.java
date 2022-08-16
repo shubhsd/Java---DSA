@@ -23,7 +23,7 @@ public class TakingInputIn2DArray {
 
 //        Print 2D array
         for (int i = 0; i < rowLength; i++) {
-            for (int j = 0; j < colLength; j++) { 
+            for (int j = 0; j < colLength; j++) {
                 System.out.print(arr[i][j] + " ");
             }
             System.out.println();
