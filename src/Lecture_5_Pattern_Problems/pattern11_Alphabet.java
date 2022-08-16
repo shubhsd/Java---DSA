@@ -12,7 +12,7 @@ public class pattern11_Alphabet {
             for (int j = 1; j < i; j++) {
                 System.out.print(letter);
             }
-            letter = (char) (letter+ 1); 
+            letter = (char) (letter+ 1);
             System.out.println();
         }
     }
