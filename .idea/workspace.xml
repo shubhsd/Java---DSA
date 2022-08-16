@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afd9be49-0d98-4a6d-8f45-fe42fa94eef8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Lecture_9_Maths_Remedial/SumOfDivisorsOptimised.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_9_Maths_Remedial/SumOfDivisorsOptimised.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_10_2D_Arrays/TwoDArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,26 +38,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SumOfDivisorsOptimised">
+  <component name="RunManager" selected="Application.TwoDArrayDemo">
     <configuration name="BirthdayParadoxProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lecture_9_Maths_Remedial.BirthdayParadoxProblem" />
       <module name="Java Beginner" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lecture_9_Maths_Remedial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindIndexOfKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture_8_Arrays.FindIndexOfKey" />
-      <module name="Java Beginner" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lecture_8_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoDArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture_10_2D_Arrays.TwoDArrayDemo" />
+      <module name="Java Beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lecture_10_2D_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoDArrayDemo" />
         <item itemvalue="Application.SumOfDivisorsOptimised" />
         <item itemvalue="Application.SumOfDivisors" />
         <item itemvalue="Application.BirthdayParadoxProblem" />
         <item itemvalue="Application.FindLargestNumberInArray" />
-        <item itemvalue="Application.FindIndexOfKey" />
       </list>
     </recent_temporary>
   </component>
