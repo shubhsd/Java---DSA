@@ -66,11 +66,14 @@ public class StringDemo {
         System.out.println(s.toUpperCase());
 //        Original string is immutable so line below will give previous string only in the output
 //        To make original string point to new string
+        System.out.println(s);
         s = s.toUpperCase();
         System.out.println(s);
     }
 
     public static void main(String[] args) {
-        
+        stringUpperCaseFunction();
+        stringBasics();
+        stringComparison();
     }
 }
