@@ -47,7 +47,7 @@ public class StringDemo {
         System.out.println(b);
     }
 
-    public static void main(String[] args) {
+    public static void stringComparison() {
         String s1 = "Hello";
         String s2 = "Hello";
         System.out.println("s1==s2 " + (s1 == s2)); //Outputs true
@@ -59,5 +59,18 @@ public class StringDemo {
 
         System.out.println("a==b " + (a == b));
         System.out.println("Equals method - a == b " + (a.equals(b)));
+    }
+
+    public static void stringUpperCaseFunction() {
+        String s = "I love reading books";
+        System.out.println(s.toUpperCase());
+//        Original string is immutable so line below will give previous string only in the output
+//        To make original string point to new string
+        s = s.toUpperCase();
+        System.out.println(s);
+    }
+
+    public static void main(String[] args) {
+        
     }
 }
