@@ -2,7 +2,7 @@ package Lecture_12_OOPS;
 
 public class Dog {
     //    data members
-    int age;
+    private int age;
     String name;
     String breed;
 
