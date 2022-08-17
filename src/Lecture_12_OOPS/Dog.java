@@ -7,10 +7,20 @@ public class Dog {
     String breed;
 
 
-//    Special function => Constructor => name same as classname
+    //    Special function => Constructor => name same as classname
 //    It is called automatically when we create object of this class.
     Dog() {
+        age = 1; //default value to class data when constructor is called
         System.out.println("Making a dog object");
+    }
+
+//    Parameterised construcutor
+
+    Dog(int dogAge, String dogName, String dogBreed) {
+        System.out.println("Calling a parametrised constructor");
+        age = dogAge;
+        name = dogName;
+        breed = dogBreed;
     }
 
     //    Methods

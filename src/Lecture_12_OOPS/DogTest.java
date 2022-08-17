@@ -16,5 +16,9 @@ public class DogTest {
         d2.breed = "Labrador";
         d2.introduce();
         d2.bark();
+
+        System.out.println("---------------");
+        Dog d3 = new Dog(7, "cody", "Shepherd");
+        d3.introduce();
     }
 }
