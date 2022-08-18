@@ -1,7 +1,7 @@
 package Lecture_8_Arrays;
 
 public class BinarySearchWithDuplicates {
-
+//Find first occurence of given element
     public static int binarySearch(int[] arr, int element) {
         int startIndex = 0;
         int endIndex = arr.length - 1;
