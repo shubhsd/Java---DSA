@@ -32,6 +32,17 @@ public class Dog {
         System.out.println("Breed is " + breed);
     }
 
+    void setAge(int dogAge) {
+        if (dogAge > 0) {
+            age = dogAge;
+        } else {
+            age = 1;
+        }
+    }
+    int getAge() {
+        return age;
+    }
+
     void bark() {
         if (age < 3) {
             System.out.println("Whup Whup");

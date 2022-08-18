@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afd9be49-0d98-4a6d-8f45-fe42fa94eef8" name="Changes" comment="" />
+    <list default="true" id="afd9be49-0d98-4a6d-8f45-fe42fa94eef8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Lecture_12_OOPS/ArrayOfObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_12_OOPS/Game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_12_OOPS/Game/GameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_12_OOPS/Game/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture_12_OOPS/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_12_OOPS/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture_12_OOPS/DogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_12_OOPS/DogTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +43,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DogTest">
+  <component name="RunManager" selected="Application.GameTest">
     <configuration name="DogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lecture_12_OOPS.DogTest" />
       <module name="Java Beginner" />
@@ -49,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseStringByEachWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture_11_Strings.ReverseStringByEachWord" />
+    <configuration name="GameTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture_12_OOPS.Game.GameTest" />
       <module name="Java Beginner" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture_11_Strings.*" />
+          <option name="PATTERN" value="Lecture_12_OOPS.Game.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture_11_Strings.StringBuilderDemo" />
+    <configuration name="ReverseStringByEachWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture_11_Strings.ReverseStringByEachWord" />
       <module name="Java Beginner" />
       <extension name="coverage">
         <pattern>
@@ -103,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GameTest" />
         <item itemvalue="Application.DogTest" />
         <item itemvalue="Application.TwoDArraylistsInputs" />
         <item itemvalue="Application.TwoDArrayLists" />
         <item itemvalue="Application.ReverseStringByEachWord" />
-        <item itemvalue="Application.StringBuilderDemo" />
       </list>
     </recent_temporary>
   </component>
