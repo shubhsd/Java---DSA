@@ -5,10 +5,10 @@ public class Player {
     int number;
 
 //    Creating parameterised constructor
-    Player(String playerName) {
+public Player(String playerName) {
         name = playerName;
     }
-    void makeGuess() {
+    public void makeGuess() {
         number = (int) (Math.random() * 10);
         System.out.println(name + " guessed the number " + number);
     }
