@@ -2,61 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afd9be49-0d98-4a6d-8f45-fe42fa94eef8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_10_2D_Arrays/ArrayListsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_10_2D_Arrays/ArrayListsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_10_2D_Arrays/Print2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_10_2D_Arrays/Print2DArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_10_2D_Arrays/TakingInputIn2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_10_2D_Arrays/TakingInputIn2DArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_10_2D_Arrays/TwoDArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_10_2D_Arrays/TwoDArrayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_10_2D_Arrays/TwoDArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_10_2D_Arrays/TwoDArrayLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_10_2D_Arrays/TwoDArrayWithVariableColumns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_10_2D_Arrays/TwoDArrayWithVariableColumns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_10_2D_Arrays/TwoDArraylistsInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_10_2D_Arrays/TwoDArraylistsInputs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_10_2D_Arrays/WavePrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_10_2D_Arrays/WavePrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_11_Strings/InputsInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_11_Strings/InputsInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_11_Strings/ReverseStringByEachWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_11_Strings/ReverseStringByEachWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_11_Strings/StringBuilderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_11_Strings/StringBuilderDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_11_Strings/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_11_Strings/StringDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_12_OOPS/ArrayOfObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_12_OOPS/ArrayOfObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_12_OOPS/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_12_OOPS/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_12_OOPS/DogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_12_OOPS/DogTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_12_OOPS/Game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_12_OOPS/Game/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_12_OOPS/Game/GameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_12_OOPS/Game/GameTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_12_OOPS/Game/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_12_OOPS/Game/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_1_2_3_4/AllPrimeNumbersInRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_1_2_3_4/AllPrimeNumbersInRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_1_2_3_4/ContinueStatementDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_1_2_3_4/ContinueStatementDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_1_2_3_4/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_1_2_3_4/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_1_2_3_4/PrimeNumberBreakDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_1_2_3_4/PrimeNumberBreakDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_1_2_3_4/PrimeNumberForMultipleInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_1_2_3_4/PrimeNumberForMultipleInputs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_1_2_3_4/SimpleCalculatorUsingSwitchCaseStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_1_2_3_4/SimpleCalculatorUsingSwitchCaseStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_1_2_3_4/SwitchCaseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_1_2_3_4/SwitchCaseDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_5_Pattern_Problems/pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_5_Pattern_Problems/pattern1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_5_Pattern_Problems/pattern10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_5_Pattern_Problems/pattern10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_5_Pattern_Problems/pattern11_Alphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_5_Pattern_Problems/pattern11_Alphabet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_5_Pattern_Problems/pattern2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_5_Pattern_Problems/pattern2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_5_Pattern_Problems/pattern3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_5_Pattern_Problems/pattern3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_5_Pattern_Problems/pattern4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_5_Pattern_Problems/pattern4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_5_Pattern_Problems/pattern5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_5_Pattern_Problems/pattern5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_5_Pattern_Problems/pattern6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_5_Pattern_Problems/pattern6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_5_Pattern_Problems/pattern7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_5_Pattern_Problems/pattern7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_5_Pattern_Problems/pattern8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_5_Pattern_Problems/pattern8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_5_Pattern_Problems/pattern9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_5_Pattern_Problems/pattern9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_6_Funtions/FunctionsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_6_Funtions/FunctionsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_6_Funtions/PrimePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_6_Funtions/PrimePractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_6_Funtions/VeggieHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_6_Funtions/VeggieHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_6_Funtions/VeggieHelperWithReturnType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_6_Funtions/VeggieHelperWithReturnType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_6_Funtions/areaOfRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_6_Funtions/areaOfRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_7_Maths/GCD_Optimised.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_7_Maths/GCD_Optimised.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_7_Maths/PrimeNumberOptimisation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_7_Maths/PrimeNumberOptimisation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_8_Arrays/ArraysDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_8_Arrays/ArraysDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_8_Arrays/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_8_Arrays/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_8_Arrays/BinarySearchWithDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_8_Arrays/BinarySearchWithDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_8_Arrays/FindIndexOfKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_8_Arrays/FindIndexOfKey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_8_Arrays/FindLargestNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_8_Arrays/FindLargestNumberInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_8_Arrays/PassByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_8_Arrays/PassByValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_8_Arrays/PassByValueInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_8_Arrays/PassByValueInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_8_Arrays/sortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_8_Arrays/sortArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_9_Maths_Remedial/BirthdayParadoxProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_9_Maths_Remedial/BirthdayParadoxProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_9_Maths_Remedial/SumOfDivisors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_9_Maths_Remedial/SumOfDivisors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_9_Maths_Remedial/SumOfDivisorsOptimised.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginner/Lecture_9_Maths_Remedial/SumOfDivisorsOptimised.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intermediate/Lecture_1_Intro_To_Problem_Solving/ArmstrongNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,13 +37,26 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindFactors">
+  <component name="RunManager" selected="Application.ArmstrongNumbers">
     <configuration name="AllPrimeNumbersInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Beginner.Lecture_1_2_3_4.AllPrimeNumbersInRange" />
       <module name="Java Beginner" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Beginner.Lecture_1_2_3_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArmstrongNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intermediate.Lecture_1_Intro_To_Problem_Solving.ArmstrongNumbers" />
+      <module name="Java Beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Intermediate.Lecture_1_Intro_To_Problem_Solving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,26 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Beginner.Lecture_8_Arrays.sortArray" />
-      <module name="Java Beginner" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Beginner.Lecture_8_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArmstrongNumbers" />
         <item itemvalue="Application.FindFactors" />
         <item itemvalue="Application.AllPrimeNumbersInRange" />
         <item itemvalue="Application.ReverseStringByEachWord" />
         <item itemvalue="Application.WavePrint" />
-        <item itemvalue="Application.sortArray" />
       </list>
     </recent_temporary>
   </component>
